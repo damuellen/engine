@@ -5,7 +5,7 @@ var dependencies: [Package.Dependency] = [
     .Package(url: "https://github.com/open-swift/S4.git", majorVersion: 0, minor: 10),
 
     //Websockets
-    .Package(url: "https://github.com/CryptoKitten/SHA1.git", majorVersion: 0, minor: 8),
+    .Package(url: "https://github.com/damuellen/SHA1.git", majorVersion: 0, minor: 8),
 
     //Sockets, used by the built in HTTP server
     .Package(url: "https://github.com/czechboy0/Socks.git", majorVersion: 0, minor: 8),
